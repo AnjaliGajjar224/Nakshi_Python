@@ -57,6 +57,12 @@ print("Nakshi Said: \"Hello World\"")
 Nakshi :'Good Morning'
 """
 
-print("Nakshi :'Good Morning'")
+# print("Nakshi :'Good Morning'")
 
-print('Nakshi :\'Good Morning\'')
+# print('Nakshi :\'Good Morning\'')
+
+"""
+Nakshi Said Anjali: "Amit Sir is teasing me, but Amit Sir said: 'I didn't tease Nakshi, I tease Mukesh'"
+"""
+
+print("Nakshi Said Anjali: \"Amit Sir is teasing me, but Amit Sir said: 'I didn't tease Nakshi, I tease Mukesh'\"")
