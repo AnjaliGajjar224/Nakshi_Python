@@ -38,6 +38,7 @@ Arithmetic Operators:
 
 """
 Take two numbers from the user and print Addition, Subtraction , Multiplication , Division, Remainder, Floor Division, Exponent of it.
+
 Input:
 ------
 a = 15
@@ -53,3 +54,15 @@ Output:
 15 // 5 = 3
 15 ** 5 = 759375
 """
+
+a = int(input("Enter a number 1: "))
+b = int(input("Enter a number 2: "))
+
+
+print(a,"+",b,"=",a+b)
+print(a,"-",b,"=",a-b)
+print(a,"*",b,"=",a*b)
+print(a,"/",b,"=",a/b)
+print(a,"%",b,"=",a%b)
+print(a,"//",b,"=",a//b)
+print(a,"**",b,"=",a**b)
